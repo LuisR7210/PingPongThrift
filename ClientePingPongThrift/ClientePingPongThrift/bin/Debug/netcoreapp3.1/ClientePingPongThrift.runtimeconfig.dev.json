@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\IS Infinite Stratos\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\IS Infinite Stratos\\.nuget\\packages"
+    ]
+  }
+}
